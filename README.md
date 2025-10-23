@@ -1,6 +1,6 @@
 These codes are wrote during my learning RTKlib. 
 
-The IDE is Code::Blocks.
+The IDE is Code::Blocks 20.03.
 
 The comments of the code was written in Chinese.
 

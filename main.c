@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include "nav_parser.h"
 
 // --- 常量定义 ---
 #define MAX_SATELLITES 32   // 一个历元中可能的最大卫星数
