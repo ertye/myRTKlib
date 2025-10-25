@@ -1,4 +1,5 @@
-
+This code is forked from:
+https://github.com/Kevin-QAQ/RTKLIB-trimmed/blob/rtklib_2.4.3
 
 您需要在 Code::Blocks 项目设置中，告诉链接器去链接包含 `timeGetTime` 函数实现的库文件 **`winmm.lib`**。
 
