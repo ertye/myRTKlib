@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1723793120 source:e:\codingwhilelearning\myrtklib_codeblocks\src\ephemeris.c
+	"rtklib.h"
+
+1723793120 e:\codingwhilelearning\myrtklib_codeblocks\src\rtklib.h
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<ctype.h>
+	<stdint.h>
+	<winsock2.h>
+	<windows.h>
+	<pthread.h>
+	<sys/select.h>
+
+1723793120 source:e:\codingwhilelearning\myrtklib_codeblocks\src\geoid.c
+	"rtklib.h"
+
+1723793120 source:e:\codingwhilelearning\myrtklib_codeblocks\src\ionex.c
+	"rtklib.h"
+
+1723793120 source:e:\codingwhilelearning\myrtklib_codeblocks\src\lambda.c
+	"rtklib.h"
+
+1723793120 source:e:\codingwhilelearning\myrtklib_codeblocks\src\pntpos.c
+	"rtklib.h"
+
+1723793120 source:e:\codingwhilelearning\myrtklib_codeblocks\src\preceph.c
+	"rtklib.h"
+
+1723793120 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rcvraw.c
+	"rtklib.h"
+
+1723793120 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rtcm.c
+	"rtklib.h"
+
+1723793120 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rtcm3.c
+	"rtklib.h"
+
+1723793120 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rtcm3e.c
+	"rtklib.h"
+
+1761428053 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rtkcmn.c
+	<stdarg.h>
+	<ctype.h>
+	<errno.h>
+	<dirent.h>
+	<time.h>
+	<sys/time.h>
+	<sys/stat.h>
+	<sys/types.h>
+	"rtklib.h"
+
+1723793120 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rtkpos.c
+	<stdarg.h>
+	"rtklib.h"
+
+1723793120 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rtksvr.c
+	"rtklib.h"
+
+1723793120 source:e:\codingwhilelearning\myrtklib_codeblocks\src\sbas.c
+	"rtklib.h"
+
+1723793120 source:e:\codingwhilelearning\myrtklib_codeblocks\src\solution.c
+	<ctype.h>
+	"rtklib.h"
+
+1723793120 source:e:\codingwhilelearning\myrtklib_codeblocks\src\stream.c
+	<ctype.h>
+	"rtklib.h"
+	<fcntl.h>
+	<unistd.h>
+	<sys/stat.h>
+	<sys/time.h>
+	<errno.h>
+	<termios.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netinet/tcp.h>
+	<arpa/inet.h>
+	<netdb.h>
+
+1723793120 source:e:\codingwhilelearning\myrtklib_codeblocks\src\streamsvr.c
+	"rtklib.h"
+
+1761427924 source:e:\codingwhilelearning\myrtklib_codeblocks\rtknavi.c
+	".\src\rtklib.h"
+

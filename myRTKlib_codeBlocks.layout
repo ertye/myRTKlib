@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="src\pntpos.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="309" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="src\stream.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="36272" topLine="915" />
+		</Cursor>
+	</File>
+	<File name="src\rtkcmn.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2035" topLine="29" />
+		</Cursor>
+	</File>
+	<File name="notes\pntpos.md" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="71" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="src\rtkpos.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="66365" topLine="1731" />
+		</Cursor>
+	</File>
+	<File name="src\rtksvr.c" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="26761" topLine="884" />
+		</Cursor>
+	</File>
+	<File name="rtknavi.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4644" topLine="112" />
+		</Cursor>
+	</File>
+	<File name="src\rtklib.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="88658" topLine="1680" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
