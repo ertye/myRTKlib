@@ -742,6 +742,8 @@ extern int pntpos(const obsd_t *obs, int n, const nav_t *nav,
                   const prcopt_t *opt, sol_t *sol, double *azel, ssat_t *ssat,
                   char *msg)
 {
+    printf(">>>in function pntpos");
+
     prcopt_t opt_=*opt;
     double *rs,*dts,*var,*azel_,*resp;
     int i,stat,vsat[MAXOBS]= {0},svh[MAXOBS];
@@ -814,10 +816,11 @@ extern int pntpos(const obsd_t *obs, int n, const nav_t *nav,
     free(azel_);
     free(resp);
 
-    printf(">>>>>>position and velocity\n");
+    printf(">>>>>>1 position and velocity\n");
     for (i=0; i<6; i++)
     {
-        printf("%f\n",sol->rr[i]);
+        printf("%f, ",sol->rr[i]);
     }
+    printf("\n");
     return stat;
 }

@@ -11,7 +11,7 @@ int main(void)
     int SvrCycle=10, SvrBuffSize=32768, NavSelect=0;
     int NmeaReq=0, NmeaCycle=1000;
     int Stream[MAXSTRRTK]= {4,4,0,5,0,0,0,0},StreamC[MAXSTRRTK]= {1,1,0,1,0,0,0,0},Format[MAXSTRRTK]= {1,1,0,3,0,0,0,0};
-    int DebugTraceF=0;
+    int DebugTraceF=9;
     double NmeaPos[3]= {0};
     int port = 52001, TimeoutTime=10000, ReconTime=10000;
     char path[64];
