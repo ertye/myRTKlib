@@ -3216,6 +3216,10 @@ extern void traceb(int level, const uint8_t *p, int n)
     fprintf(fp_trace,"\n");
 }
 #else
+/*
+* This is called Stubs function, "zhuang han shu" in Chinese
+* This is used for functionality disabling
+*/
 extern void traceopen(const char *file) {}
 extern void traceclose(void) {}
 extern void tracelevel(int level) {}

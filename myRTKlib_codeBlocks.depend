@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1761426320 source:e:\codingwhilelearning\myrtklib_codeblocks\src\ephemeris.c
+1761865672 source:e:\codingwhilelearning\myrtklib_codeblocks\src\ephemeris.c
 	"rtklib.h"
 
-1761426320 e:\codingwhilelearning\myrtklib_codeblocks\src\rtklib.h
+1761865672 e:\codingwhilelearning\myrtklib_codeblocks\src\rtklib.h
 	<stdio.h>
 	<stdlib.h>
 	<stdarg.h>
@@ -16,34 +16,34 @@
 	<pthread.h>
 	<sys/select.h>
 
-1761426320 source:e:\codingwhilelearning\myrtklib_codeblocks\src\geoid.c
+1761865672 source:e:\codingwhilelearning\myrtklib_codeblocks\src\geoid.c
 	"rtklib.h"
 
-1761426320 source:e:\codingwhilelearning\myrtklib_codeblocks\src\ionex.c
+1761865672 source:e:\codingwhilelearning\myrtklib_codeblocks\src\ionex.c
 	"rtklib.h"
 
-1761426320 source:e:\codingwhilelearning\myrtklib_codeblocks\src\lambda.c
+1761865672 source:e:\codingwhilelearning\myrtklib_codeblocks\src\lambda.c
 	"rtklib.h"
 
-1761426320 source:e:\codingwhilelearning\myrtklib_codeblocks\src\pntpos.c
+1761865672 source:e:\codingwhilelearning\myrtklib_codeblocks\src\pntpos.c
 	"rtklib.h"
 
-1761426320 source:e:\codingwhilelearning\myrtklib_codeblocks\src\preceph.c
+1761865672 source:e:\codingwhilelearning\myrtklib_codeblocks\src\preceph.c
 	"rtklib.h"
 
-1761426320 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rcvraw.c
+1761865672 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rcvraw.c
 	"rtklib.h"
 
-1761426320 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rtcm.c
+1761865672 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rtcm.c
 	"rtklib.h"
 
-1761426320 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rtcm3.c
+1761865672 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rtcm3.c
 	"rtklib.h"
 
-1761426320 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rtcm3e.c
+1761865672 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rtcm3e.c
 	"rtklib.h"
 
-1761426320 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rtkcmn.c
+1761865672 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rtkcmn.c
 	<stdarg.h>
 	<ctype.h>
 	<errno.h>
@@ -54,21 +54,21 @@
 	<sys/types.h>
 	"rtklib.h"
 
-1761426320 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rtkpos.c
+1761865672 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rtkpos.c
 	<stdarg.h>
 	"rtklib.h"
 
-1761619977 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rtksvr.c
+1761865672 source:e:\codingwhilelearning\myrtklib_codeblocks\src\rtksvr.c
 	"rtklib.h"
 
-1761426320 source:e:\codingwhilelearning\myrtklib_codeblocks\src\sbas.c
+1761865672 source:e:\codingwhilelearning\myrtklib_codeblocks\src\sbas.c
 	"rtklib.h"
 
-1761426320 source:e:\codingwhilelearning\myrtklib_codeblocks\src\solution.c
+1761865672 source:e:\codingwhilelearning\myrtklib_codeblocks\src\solution.c
 	<ctype.h>
 	"rtklib.h"
 
-1761426320 source:e:\codingwhilelearning\myrtklib_codeblocks\src\stream.c
+1761865672 source:e:\codingwhilelearning\myrtklib_codeblocks\src\stream.c
 	<ctype.h>
 	"rtklib.h"
 	<fcntl.h>
@@ -83,9 +83,9 @@
 	<arpa/inet.h>
 	<netdb.h>
 
-1761426320 source:e:\codingwhilelearning\myrtklib_codeblocks\src\streamsvr.c
+1761865672 source:e:\codingwhilelearning\myrtklib_codeblocks\src\streamsvr.c
 	"rtklib.h"
 
-1761619813 source:e:\codingwhilelearning\myrtklib_codeblocks\rtknavi.c
+1761865672 source:e:\codingwhilelearning\myrtklib_codeblocks\rtknavi.c
 	".\src\rtklib.h"
 
