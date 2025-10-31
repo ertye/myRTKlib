@@ -566,6 +566,8 @@ static void send_nmea(rtksvr_t *svr, uint32_t *tickreset)
 /* rtk server thread ---------------------------------------------------------*/
 static DWORD WINAPI rtksvrthread(void *arg)
 {
+    printf("######In rtksvrthread function now\n");
+
     rtksvr_t *svr=(rtksvr_t *)arg;
     obs_t obs;
     obsd_t data[MAXOBS*2];
@@ -586,6 +588,8 @@ static DWORD WINAPI rtksvrthread(void *arg)
 
     for (cycle=0; svr->state; cycle++)
     {
+        printf("%d/%d=>\n",cycle,svr->state);
+
         tick=tickget();
         for (i=0; i<3; i++)
         {
